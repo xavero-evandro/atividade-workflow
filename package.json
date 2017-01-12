@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xavero-evandro/atividade-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xavero-evandro/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/xavero-evandro/atividade-workflow#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-minify-html-2": "^1.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
